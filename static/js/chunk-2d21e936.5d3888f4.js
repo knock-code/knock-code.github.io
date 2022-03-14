@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d21e936"],{d5c2:function(e,n,c){"use strict";c.r(n);var t=function(){var e=this,n=e.$createElement,c=e._self._c||n;return c("div",[e._v("这是注册页面,此处需要进行密码加密")])},u=[],a={name:"index"},d=a,i=c("2877"),r=Object(i["a"])(d,t,u,!1,null,"57287d5c",null);n["default"]=r.exports}}]);
